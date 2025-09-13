@@ -2,7 +2,7 @@
 
 👀 Interested in all things software development.
 
-✍️ Open to collaborating on intriguing web and mobile app projects.
+✍️ Currently working on SitePuls.app, a simple uptime monitor.
 
 📫 Reach me at mats@devision.fi
 
