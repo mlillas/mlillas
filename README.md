@@ -1,9 +1,5 @@
 👋 Hey, I'm @mlillas - Mats
 
-👀 Interested in all things software development.
-
-✍️ Currently working on SitePuls.app, a simple uptime monitor.
-
 📫 Reach me at mats@devision.fi
 
 <!---
